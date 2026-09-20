@@ -4,7 +4,7 @@
 
 I'm a Software Engineer and Frontend Lead with 5+ years of professional experience building production-grade web applications.
 
-My primary expertise is in the frontend ecosystem, especially **React, Next.js, and TypeScript**, with a strong focus on scalable frontend architecture, maintainable code, performance, and user experience.
+My primary expertise is in the frontend ecosystem, especially **React, Angular, Next.js, and TypeScript**, with a strong focus on scalable frontend architecture, maintainable code, performance, and user experience.
 
 Alongside frontend development, I have hands-on experience building backend services and APIs using **.NET and Node.js**, working with **SQL and NoSQL databases**, and applying patterns such as **CQRS and Microservices**.
 
