@@ -1,139 +1,98 @@
-# Hi, I'm Asif 👋
+<div align="center">
 
-### Frontend-heavy Full-Stack Developer | React • Next.js • TypeScript • Angular • .NET • Node.js
+# Hi there, I'm Md Asif Bin Abedin 👋
+### Software Engineer & Frontend Technical Lead
 
-I'm a Software Engineer and Frontend Lead with 5+ years of professional experience building production-grade web applications.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-asif-bin-abedin-4113a9160/)
+[![Portfolio / Email](https://img.shields.io/badge/Email-asif.b.abedin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asif.b.abedin@gmail.com)
+[![Office GitHub](https://img.shields.io/badge/Work_GitHub-asif--selise-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asif-selise)
+[![Location](https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-My primary expertise is in the frontend ecosystem, especially **React, Angular, Next.js, and TypeScript**, with a strong focus on scalable frontend architecture, maintainable code, performance, and user experience.
-
-Alongside frontend development, I have hands-on experience building backend services and APIs using **.NET and Node.js**, working with **SQL and NoSQL databases**, and applying patterns such as **CQRS and Microservices**.
+<p align="center">
+  <b>Architecting resilient frontend systems • Delivering concurrent enterprise B2B SaaS platforms • Full-stack .NET & Node.js</b>
+</p>
 
 ---
+
+</div>
 
 ## 👨‍💻 About Me
 
-* 💻 Frontend-heavy Full-Stack Developer with 5+ years of professional experience
-* ⚛️ Specialized in React, Next.js, and TypeScript
-* 🏗️ Experienced in designing scalable and maintainable frontend architectures
-* 👥 Experienced in frontend technical leadership, code reviews, and mentoring
-* 🔌 Experienced in integrating frontend applications with RESTful APIs
-* ⚙️ Hands-on backend experience with .NET and Node.js
-* 🗄️ Experience with SQL and NoSQL databases
-* 🧩 Experience with Entity Framework and Dapper
-* 🔄 Familiar with CQRS and Microservices architecture
-* 🚀 Experienced in performance optimization, debugging, testing, and CI/CD
-* 🤝 Comfortable collaborating with product, design, backend, and DevOps teams
-* 🌐 Experience working on enterprise SaaS, IoT, and business platforms
+I am a **Software Engineer** specializing in modern frontend architecture and scalable full-stack web applications[cite: 1, 2]. Currently leading frontend engineering across multiple concurrent client platforms at **SELISE Digital Platforms**[cite: 1, 2].
+
+- 🔭 **Frontend Architecture:** Own UI design systems, micro-frontend structures, state machines, and performance profiling across large-scale enterprise suites[cite: 1, 2].
+- ⚡ **Full-Stack Engineering:** High-performance web apps built with **React, Next.js, and Angular**, paired with scalable APIs in **.NET Core, Node.js, SQL, and NoSQL** databases[cite: 1, 2].
+- 🔬 **Research & Publications:** Published co-author in *Springer Lecture Notes in Networks and Systems* focusing on computer vision and Convolutional Neural Networks (CNNs)[cite: 1, 2].
+- 🏢 **Enterprise Work:** Client and organization contributions are actively shipped under my enterprise account [@asif-selise](https://github.com/asif-selise)[cite: 2].
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Capabilities
 
-### Frontend
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css" />
-</p>
+### Frontend Ecosystem
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/State-Redux_/_Zustand-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-### State Management & UI
+### Backend, Databases & Architecture
+![.NET Core](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/ORM-EF_Core_/_Dapper-512BD4?style=flat-square)
+![CQRS / Microservices](https://img.shields.io/badge/Patterns-CQRS_/_Microservices-orange?style=flat-square)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=redux,materialui" />
-</p>
+### Tooling, DevOps & Practices
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-007ACC?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jest / Vitest](https://img.shields.io/badge/Testing-Unit_&_Integration-C21325?style=flat-square&logo=jest&logoColor=white)
 
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
-
-### Tools & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vite,webpack" />
-</p>
+</div>
 
 ---
 
-## 💡 What I Do
+## 💼 Enterprise Systems & Architectural Impact
 
-I primarily work on the frontend while being comfortable contributing across the full stack.
-
-### Frontend
-
-* React & Next.js applications
-* TypeScript development
-* Frontend architecture
-* Reusable component design
-* State management
-* REST API integration
-* Responsive UI development
-* Performance optimization
-* Testing and debugging
-* Code quality and maintainability
-
-### Backend
-
-* .NET APIs and services
-* Node.js applications
-* RESTful API development
-* SQL & NoSQL data stores
-* Entity Framework
-* Dapper
-* CQRS
-* Microservices
-
-### Engineering & Leadership
-
-* Technical architecture decisions
-* Frontend technical direction
-* Code reviews
-* Mentoring engineers
-* Cross-functional collaboration
-* CI/CD
-* Technical documentation
-* Client engineering team training
+| Platform / Initiative | Core Stack | Architecture & Engineering Highlights |
+| :--- | :--- | :--- |
+| **Service 7000**<br>*(Field Service Management)* | `.NET`, `React`, `Next.js`, `SQL` | Spearheaded frontend architecture for rapid dispatch, scheduling workflows, and offline field usability[cite: 1, 2]. |
+| **VCE Monitor / Coscomp**<br>*(B2B Commodity Pricing)* | `.NET`, `Angular`, `Microservices` | Architected responsive data-dense grids and real-time analytical feeds for commodity price fluctuations[cite: 1, 2]. |
+| **RiQs / Praxismonitor**<br>*(Healthcare Operations & Risk)* | `.NET`, `Angular`, `CQRS` | Built scalable audit, operational tracking, and healthcare regulatory compliance dashboards[cite: 1, 2]. |
+| **Creolytix**<br>*(Risk-Intelligence & SaaS)* | `.NET`, `React.js`, `Dapper` | Implemented modular threat intelligence UI, incident mitigation maps, and role-based permissions[cite: 1, 2]. |
+| **Horen**<br>*(IoT-based CSR Initiative)* | `Node.js`, `.NET`, `React`, `Next.js` | Built sensor data visualization interfaces and telemetry ingestion pipelines[cite: 1, 2]. |
 
 ---
 
-## 🚀 Professional Experience
+## 🔬 Academic Research & Publications
 
-I've worked on production applications across several domains, including:
-
-* 🏢 Enterprise SaaS platforms
-* 🔧 Field-service management
-* 📡 IoT platforms
-* 📊 Commodity-price monitoring
-* 🏥 Healthcare operations and risk management
-* 🔐 Business and operational-resilience platforms
+* **Student Attention Base Facial Emotion State Recognition Using Convolutional Neural Network**[cite: 1, 2]  
+  *M. M. Hassan, K. T. Hasan, I. A. Tonoy, M. M. Rahman, **M. A. B. Abedin***[cite: 1, 2]  
+  *International Conference on Data Science and Applications (ICDSA)* — **Springer Nature** (Lecture Notes in Networks and Systems, Vol. 551)[cite: 1, 2].  
+  📄 [Publication Link / DOI](https://link.springer.com/chapter/10.1007/978-981-19-6631-6_54)[cite: 2]
 
 ---
 
-## 📚 Currently Exploring
+## 📊 GitHub Activity & Insights
 
-* 🤖 AI-assisted software development
-* 🧠 LLM-powered developer tools
-* 🏗️ Scalable frontend and full-stack architecture
-* ⚡ Web application performance
-* 🧩 Modern React and Next.js patterns
-* 🔧 Developer productivity and engineering workflows
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=asif-pro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Asif's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif-pro&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 
-## 🤝 Let's Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/md-asif-bin-abedin-4113a9160/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+</div>
 
 ---
 
-⭐ If you find any of my projects useful, feel free to star them!
+## 📬 Connect With Me
+
+- **LinkedIn:** [md-asif-bin-abedin](https://www.linkedin.com/in/md-asif-bin-abedin-4113a9160/)[cite: 2]
+- **Email:** [asif.b.abedin@gmail.com](mailto:asif.b.abedin@gmail.com)[cite: 1, 2]
+- **Personal Code:** [github.com/asif-pro](https://github.com/asif-pro)[cite: 2]
