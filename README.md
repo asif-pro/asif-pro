@@ -1,6 +1,6 @@
 # Hi, I'm Asif 👋
 
-### Frontend-heavy Full-Stack Developer | React • Next.js • TypeScript • .NET • Node.js
+### Frontend-heavy Full-Stack Developer | React • Next.js • TypeScript • Angular • .NET • Node.js
 
 I'm a Software Engineer and Frontend Lead with 5+ years of professional experience building production-grade web applications.
 
